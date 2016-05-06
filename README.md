@@ -6,7 +6,7 @@ Simple Vue.js component for jquery [nouislider](http://refreshless.com/nouislide
 ### Usage:
 
 - Install: `bower install vue-nouislider`
-- Add `jquery`, `angular`, `nouislider` and `vue-nouislider` to your code:
+- Add `jquery`, `vue`, `nouislider` and `vue-nouislider` to your code:
 
 ```html
 <link rel="stylesheet" href="bower_components/nouislider/jquery.nouislider.css" />

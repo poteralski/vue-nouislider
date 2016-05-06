@@ -1,0 +1,22 @@
+{
+  "name": "vue-nouislider",
+  "homepage": "https://github.com/poteralski/vue-nouislider",
+  "authors": [
+    "ppoteralski <poteralski.dev@gmail.com>"
+  ],
+  "version": "0.0.1",
+  "dependencies": {
+    "vue": "~1.0.21",
+    "jquery": "~2.1.0",
+    "nouislider": "~6.2.0"
+  },
+  "description": "Simple angular directive for jquery nouislider plugin.",
+  "main": "src/nouislider.vue.js",
+  "keywords": [
+    "vue",
+    "slider",
+    "input",
+    "component"
+  ],
+  "license": "MIT"
+}

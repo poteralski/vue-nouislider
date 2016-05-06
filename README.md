@@ -20,7 +20,7 @@ Simple Vue.js component for jquery [nouislider](http://refreshless.com/nouislide
 - Create your `<slider>`:
 
 ```html
-<slider :slider-value.sync="menuItem.prepare_time" :slider-min="0" :slider-max="20" :slider-step="1"></slider>
+<slider :slider-value.sync="myValue" :slider-min="0" :slider-max="20" :slider-step="1"></slider>
 ```
 
 That's it!

@@ -10,7 +10,7 @@
     "jquery": "~2.1.0",
     "nouislider": "~6.2.0"
   },
-  "description": "Simple angular directive for jquery nouislider plugin.",
+  "description": "Simple Vue.js component for jquery nouislider plugin.",
   "main": "src/nouislider.vue.js",
   "keywords": [
     "vue",

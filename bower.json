@@ -4,7 +4,7 @@
   "authors": [
     "ppoteralski <poteralski.dev@gmail.com>"
   ],
-  "version": "0.0.1",
+  "version": "0.1.0",
   "dependencies": {
     "vue": "~1.0.21",
     "jquery": "~2.1.0",

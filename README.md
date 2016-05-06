@@ -1,7 +1,7 @@
-angular-nouislider
-==================
+vue-nouislider
+==============
 
-Simple angular directive for jquery [nouislider](http://refreshless.com/nouislider/) plugin.
+Simple Vue.js component for jquery [nouislider](http://refreshless.com/nouislider/) plugin.
 
 ### Usage:
 
@@ -11,10 +11,9 @@ Simple angular directive for jquery [nouislider](http://refreshless.com/nouislid
 ```html
 <link rel="stylesheet" href="bower_components/nouislider/jquery.nouislider.css" />
 <script src="bower_components/jquery/jquery.js"></script>
-<script src="bower_components/angular/angular.js"></script>
+<script src="bower_components/vue/vue.js"></script>
 <script src="bower_components/nouislider/jquery.nouislider.js"></script>
-<script src="bower_components/nouislider/Link.js"></script>
-<script src="bower_components/vue-nouislider/src/nouislider.js"></script>
+<script src="bower_components/vue-nouislider/src/nouislider.vue.js"></script>
 ```
 
 

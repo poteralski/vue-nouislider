@@ -14,7 +14,7 @@ Vue.component('slider', {
             sliderId: this.uuid4(),
         }
     },
-    ready: function () {
+    mounted: function () {
         var slider = document.getElementById(this.sliderId)
         noUiSlider.create(slider, {
             start: this.sliderValue,
